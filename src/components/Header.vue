@@ -7,6 +7,7 @@ const navigation = [
   { name: 'Bolsas', href: '#bolsas' },
   { name: 'Sandálias', href: '#sandalias' },
   { name: 'Cosméticos', href: '#cosmeticos' },
+  { name: 'T-Shirts', href: '#t-shirts' },
 ];
 
 const isOpen = ref(false);

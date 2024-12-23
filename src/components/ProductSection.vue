@@ -48,6 +48,16 @@ const categories = [
     ] ,
     href: '#cosmeticos',
     description: "descrição"
+  },
+  {
+    id: 4,
+    name: 'T-Shirts',
+    image: [
+      '/images/roupas/01.jpeg',
+      '/images/roupas/02.jpeg',
+    ] ,
+    href: '#t-shirts',
+    description: "descrição"
   }
 ];
 </script>

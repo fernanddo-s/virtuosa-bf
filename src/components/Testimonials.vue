@@ -2,20 +2,20 @@
 const testimonials = [
   {
     id: 1,
-    name: 'Ana Silva',
-    image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1160&q=80',
+    name: 'Silvia Lopes',
+    image: '/images/bolsas/01.jpeg',
     text: 'Adorei a qualidade das roupas! O atendimento foi excelente e a entrega super rápida.'
   },
   {
     id: 2,
-    name: 'Maria Santos',
-    image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1160&q=80',
+    name: 'Camila Mendes',
+    image: '/images/cosmeticos/01.jpeg',
     text: 'As peças são lindas e exclusivas. Sempre encontro algo especial para cada ocasião.'
   },
   {
     id: 3,
-    name: 'Julia Costa',
-    image: 'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1160&q=80',
+    name: 'Vitória Cristine',
+    image: './images/sandalias/01.jpeg',
     text: 'Melhor loja online! Os produtos são exatamente como nas fotos e chegam muito bem embalados.'
   }
 ];

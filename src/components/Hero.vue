@@ -4,13 +4,13 @@
 <template>
   <section class="relative h-screen flex items-center justify-center bg-secondary/30 mt-16">
     <div class="absolute inset-0">
-      <img src="https://images.unsplash.com/photo-1483985988355-763728e1935b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+      <img src="/images/image.png"
            class="w-full h-full object-cover opacity-90"
            alt="Hero background">
-      <div class="absolute inset-0 bg-black/20"></div>
+      <div class="absolute inset-0 "></div>
     </div>
     
-    <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+    <!-- <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
       <h1 class="text-4xl md:text-6xl font-bold text-white mb-6">
         Elegância em Cada Detalhe
       </h1>
@@ -23,6 +23,10 @@
                 transition-all duration-300">
         Compre Agora
       </a>
-    </div>
+    </div> -->
   </section>
 </template>
+
+<style >
+
+</style>
