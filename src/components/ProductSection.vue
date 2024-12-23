@@ -5,9 +5,12 @@ const categories = [
   {
     id: 1,
     name: 'Roupas',
-    image: ['https://images.unsplash.com/photo-1434389677669-e08b4cac3105?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1005&q=80',
-      'https://images.unsplash.com/photo-1543163521-1bf539c55dd2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1160&q=80',
-    'https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1160&q=80'
+    image: [
+      '/images/roupas/01.jpeg',
+      '/images/roupas/02.jpeg',
+      '/images/roupas/03.jpeg',
+      '/images/roupas/04.jpeg',
+      '/images/roupas/05.jpeg',
     ],
     href: '#roupas',
     description: "descrição"
@@ -15,15 +18,18 @@ const categories = [
   {
     id: 2,
     name: 'Bolsas',
-    image: ['https://images.unsplash.com/photo-1594633313593-bab3825d0caf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80'],
+    image: ['/images/bolsas/01.jpeg'],
     href: '#bolsas',
     description: "descrição"
   },
   {
     id: 3,
     name: 'Sandálias',
-    image: ['https://images.unsplash.com/photo-1543163521-1bf539c55dd2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1160&q=80',
-    'https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1160&q=80'
+    image: [
+      '/images/sandalias/01.jpeg',
+      '/images/sandalias/02.jpeg',
+      '/images/sandalias/03.jpeg',
+      '/images/sandalias/04.jpeg',
     ],
     href: '#sandalias',
     description: "descrição"
@@ -31,9 +37,14 @@ const categories = [
   {
     id: 4,
     name: 'Cosméticos',
-    image: ['https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1160&q=80',
-      'https://images.unsplash.com/photo-1543163521-1bf539c55dd2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1160&q=80',
-    'https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1160&q=80'
+    image: [
+      '/images/cosmeticos/01.jpeg',
+      '/images/cosmeticos/02.jpeg',
+      '/images/cosmeticos/03.jpeg',
+      '/images/cosmeticos/04.jpeg',
+      '/images/cosmeticos/05.jpeg',
+      '/images/cosmeticos/06.jpeg',
+      '/images/cosmeticos/07.jpeg',
     ] ,
     href: '#cosmeticos',
     description: "descrição"
