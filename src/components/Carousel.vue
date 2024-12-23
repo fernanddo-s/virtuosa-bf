@@ -13,8 +13,8 @@
       </div>
     </div>
 
-    <button class="prev" @click="prevSlide">❮</button>
-    <button class="next" @click="nextSlide">❯</button>
+    <button v-if="images.length > 1" class="prev" @click="prevSlide">❮</button>
+    <button v-if="images.length > 1" class="next" @click="nextSlide">❯</button>
 
     <div class="indicators">
       <span
@@ -68,7 +68,7 @@ const goToSlide = (index: number): void => {
 }
 img {
   width: 100%;
-  height: 300px;
+  height: 500px;
   object-fit: cover;
   display: block;
 }
