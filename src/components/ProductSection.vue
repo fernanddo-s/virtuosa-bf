@@ -73,7 +73,6 @@ const categories = [
         <div v-for="categorie in categories" :key="categorie.id" class="categorie-card">
           <Carousel :images="categorie.image"></Carousel>
           <h3 class="categorie-title">{{ categorie.name }}</h3>
-          <!-- <p class="categorie-description">{{ categorie.description }}</p> -->
         </div>
       </div>
     </div>
