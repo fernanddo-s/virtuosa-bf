@@ -3,19 +3,19 @@ const testimonials = [
   {
     id: 1,
     name: 'Silvia Lopes',
-    image: '/images/bolsas/01.jpeg',
+    image: '/images/clientes/silvia.jpeg',
     text: 'Adorei a qualidade das roupas! O atendimento foi excelente e a entrega super rápida.'
   },
   {
     id: 2,
     name: 'Camila Mendes',
-    image: '/images/cosmeticos/01.jpeg',
+    image: '/images/clientes/camila.jpeg',
     text: 'As peças são lindas e exclusivas. Sempre encontro algo especial para cada ocasião.'
   },
   {
     id: 3,
     name: 'Vitória Cristine',
-    image: './images/sandalias/01.jpeg',
+    image: '/images/clientes/vitoria.jpeg',
     text: 'Melhor loja online! Os produtos são exatamente como nas fotos e chegam muito bem embalados.'
   }
 ];
